@@ -16,6 +16,7 @@ install_dmg_app "$DOCKER_APP_URL" "$DOCKER_VOLUME_NAME" "$DOCKER_APP_NAME"
 # install_dmg_app "$SONOS_APP_URL" "$SONOS_VOLUME_NAME" "$SONOS_APP_NAME"
 # install_zip_app "$SUBLIME_URL_HANDLER_APP_URL" "$SUBLIME_URL_HANDLER_APP_NAME"
 install_dmg_app "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.15.5666.dmg" "Jetbrains Toolbox" "Jetbrains Toolbox.app"
+install_dmg_app "https://slack.com/ssb/download-osx" "Slack" "Slack.app"
 
 install_zip_app "https://gfx.io/downloads/gfxCardStatus-2.3.zip" "gfxCardStatus.app"
 install_zip_app "https://github.com/standardnotes/desktop/releases/download/v3.0.15/standard-notes-3.0.15-mac.zip" "Standard Notes.app"
