@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="mac_os-config.png" alt="MacOS Config Icon"/>
-</p>
+# Other Apps
+- Logitech G Hub
 
 # macOS Configuration
 
