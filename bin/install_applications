@@ -21,4 +21,6 @@ install_dmg_app "https://slack.com/ssb/download-osx" "Slack" "Slack.app"
 install_zip_app "https://gfx.io/downloads/gfxCardStatus-2.3.zip" "gfxCardStatus.app"
 install_zip_app "https://github.com/standardnotes/desktop/releases/download/v3.0.15/standard-notes-3.0.15-mac.zip" "Standard Notes.app"
 
+install_pkg "https://dl.enpass.io/stable/mac/package/471/Enpass.pkg" "Enpass.app"
+
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
